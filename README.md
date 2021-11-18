@@ -1,4 +1,4 @@
-# wuziqi
+# Gobang
 have fun~
 ![img](https://github.com/liuyuqingNKCS/wuziqi/blob/master/1577789616372_1.jpg)
 ![img](https://github.com/liuyuqingNKCS/wuziqi/blob/master/1577789616372_2.jpg)
